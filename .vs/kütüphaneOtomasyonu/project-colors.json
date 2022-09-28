@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "907c68e5-cde3-4cb3-a26d-719dcd80e992": {
+      "ProjectGuid": "907c68e5-cde3-4cb3-a26d-719dcd80e992",
+      "DisplayName": "kütüphaneOtomasyonu",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
