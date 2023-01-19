@@ -1,9 +1,9 @@
-# Kütüpane Otomasyonu
+# Library Automation
 
-Windows Formları en iyi şekilde anlamak için üniversitenin ilk senesinde yaptığım bir proje.
+It's a project to configure Windows Forms in the first year of university to best understand it.
 
-GunaUI Framework deneme paketi kullandığım için form stabil çalışmıyor.
+The form does not work stable for the GunaUI Framework trial package.
 
-Admin şifresi ile admin paneline erişim, üye silme/ekleme, şifre değiştirme, üye adı değiştirme; kitap bilgilerini güncelleme, kitap ekleme gibi özellikler geliyor.
+Access to admin panel with admin password, delete/add members, change password, change member name; Features such as deleting books, updating and adding books are coming.
 
-Üye girişinde sadece kitap bilgileri geliyor.
+Only book information is available at the member login.
